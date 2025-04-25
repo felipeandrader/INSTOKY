@@ -4,7 +4,7 @@ O INSTOKY é uma solução digital que integra o gerenciamento de estoque, a pro
 O site planejado permite que a artesã acompanhe em tempo real os materiais disponíveis no estoque, identifique quais produtos podem ser fabricados com base nesses materiais e gerencie os pedidos de clientes de maneira eficiente. Ao automatizar e centralizar essas operações, a plataforma otimiza o fluxo de trabalho, reduz erros manuais e melhora a capacidade de atendimento, proporcionando mais organização e agilidade no negócio artesanal.
 
   ## Links importantes
-  - <a href="https://djangodeploy-d5cub5dmdwgxa4e9.brazilsouth-01.azurewebsites.net">Site</a>
+  - <a href="https://youtu.be/n4D3p_RBOII?si=6bOQl6Qep1EFWelW">Site</a>
   - <a href="https://trello.com/invite/b/673a7e526457c46c0c9fbe9f/ATTIde7e4798bb0fc2b4e51dbd8c96c72034910BDE6B/projeto-2-grupo-17">Trello - histórias</a>
 
 ## Status Report 1
