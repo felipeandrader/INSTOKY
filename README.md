@@ -78,7 +78,3 @@ Este projeto foi desenvolvido em equipe para a disciplina de Projeto de Software
 
 ---
 
-## 📜 Licença
-
-Este projeto foi desenvolvido exclusivamente para fins acadêmicos e não possui uma licença de distribuição.
-
